@@ -1,5 +1,4 @@
 import os
-from string import maketrans
 
 if not os.path.isfile("_2.txt"):
 	import urllib
